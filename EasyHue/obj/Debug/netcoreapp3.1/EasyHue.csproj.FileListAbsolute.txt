@@ -1,0 +1,48 @@
+C:\Users\omar-\Desktop\4. Semester\p4\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.csproj.AssemblyReference.cache
+C:\Users\omar-\Desktop\4. Semester\p4\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omar-\Desktop\4. Semester\p4\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.AssemblyInfoInputs.cache
+C:\Users\omar-\Desktop\4. Semester\p4\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.AssemblyInfo.cs
+C:\Users\omar-\Desktop\4. Semester\p4\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.csproj.CoreCompileInputs.cache
+C:\Users\omar-\Desktop\4. Semester\p4\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\EasyHue.exe
+C:\Users\omar-\Desktop\4. Semester\p4\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\EasyHue.deps.json
+C:\Users\omar-\Desktop\4. Semester\p4\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\EasyHue.runtimeconfig.json
+C:\Users\omar-\Desktop\4. Semester\p4\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\EasyHue.runtimeconfig.dev.json
+C:\Users\omar-\Desktop\4. Semester\p4\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\EasyHue.dll
+C:\Users\omar-\Desktop\4. Semester\p4\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\EasyHue.pdb
+C:\Users\omar-\Desktop\4. Semester\p4\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
+C:\Users\omar-\Desktop\4. Semester\p4\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.csproj.CopyComplete
+C:\Users\omar-\Desktop\4. Semester\p4\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.dll
+C:\Users\omar-\Desktop\4. Semester\p4\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.pdb
+C:\Users\omar-\Desktop\4. Semester\p4\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.genruntimeconfig.cache
+C:\Users\omar-\Desktop\p4_test\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.csproj.AssemblyReference.cache
+C:\Users\omar-\Desktop\p4_test\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omar-\Desktop\p4_test\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.AssemblyInfoInputs.cache
+C:\Users\omar-\Desktop\p4_test\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.AssemblyInfo.cs
+C:\Users\omar-\Desktop\p4_test\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.csproj.CoreCompileInputs.cache
+C:\Users\omar-\Desktop\p4_test\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.dll
+C:\Users\omar-\Desktop\p4_test\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.pdb
+C:\Users\omar-\Desktop\p4_test\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\EasyHue.exe
+C:\Users\omar-\Desktop\p4_test\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\EasyHue.deps.json
+C:\Users\omar-\Desktop\p4_test\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\EasyHue.runtimeconfig.json
+C:\Users\omar-\Desktop\p4_test\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\EasyHue.runtimeconfig.dev.json
+C:\Users\omar-\Desktop\p4_test\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\EasyHue.dll
+C:\Users\omar-\Desktop\p4_test\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\EasyHue.pdb
+C:\Users\omar-\Desktop\p4_test\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
+C:\Users\omar-\Desktop\p4_test\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.csproj.CopyComplete
+C:\Users\omar-\Desktop\p4_test\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.genruntimeconfig.cache
+C:\Users\omar-\Desktop\P4 with While\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\EasyHue.exe
+C:\Users\omar-\Desktop\P4 with While\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\EasyHue.deps.json
+C:\Users\omar-\Desktop\P4 with While\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\EasyHue.runtimeconfig.json
+C:\Users\omar-\Desktop\P4 with While\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\EasyHue.runtimeconfig.dev.json
+C:\Users\omar-\Desktop\P4 with While\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\EasyHue.dll
+C:\Users\omar-\Desktop\P4 with While\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\EasyHue.pdb
+C:\Users\omar-\Desktop\P4 with While\EasyHue\EasyHue\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
+C:\Users\omar-\Desktop\P4 with While\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.csproj.AssemblyReference.cache
+C:\Users\omar-\Desktop\P4 with While\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omar-\Desktop\P4 with While\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.AssemblyInfoInputs.cache
+C:\Users\omar-\Desktop\P4 with While\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.AssemblyInfo.cs
+C:\Users\omar-\Desktop\P4 with While\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.csproj.CoreCompileInputs.cache
+C:\Users\omar-\Desktop\P4 with While\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.csproj.CopyComplete
+C:\Users\omar-\Desktop\P4 with While\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.dll
+C:\Users\omar-\Desktop\P4 with While\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.pdb
+C:\Users\omar-\Desktop\P4 with While\EasyHue\EasyHue\obj\Debug\netcoreapp3.1\EasyHue.genruntimeconfig.cache

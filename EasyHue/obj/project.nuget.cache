@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zCeEzUkNkdu+AycIh9IaDFbek06RBqOzR18s9HnHnpCFJjywyh3VaMuG4eKLCaGxX4/jT00hzpqDxgEJRQXAJg==",
+  "success": true,
+  "projectFilePath": "/Users/massirq/Downloads/P4_with_While/EasyHue/EasyHue/EasyHue.csproj",
+  "expectedPackageFiles": [
+    "/Users/massirq/.nuget/packages/antlr4.runtime.standard/4.12.0/antlr4.runtime.standard.4.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
